@@ -84,6 +84,38 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "kkyun": {
+      "api": "https://api.kkyun.top/api.php/provide/vod",
+      "name": "快看资源",
+      "detail": "https://kkyun.top"
+    },
+    "suba": {
+      "api": "https://suba.pro/api.php/provide/vod",
+      "name": "速播资源"
+    },
+    "lezhu": {
+      "api": "https://lezhu.top/api.php/provide/vod",
+      "name": "乐猪资源",
+      "detail": "https://lezhu.top"
+    },
+    "zizi": {
+      "api": "https://ziziapi.com/api.php/provide/vod",
+      "name": "子子资源"
+    },
+    "okzy": {
+      "api": "https://okzy.tv/api.php/provide/vod",
+      "name": "OK资源",
+      "detail": "https://okzy.tv"
+    },
+    "kuaikan": {
+      "api": "https://kuaikan-api.com/api.php/provide/vod",
+      "name": "快看影视"
+    },
+    "libvio": {
+      "api": "https://libvio.me/api.php/provide/vod",
+      "name": "LIBVIO资源",
+      "detail": "https://libvio.me"
     }
   }
 }
